@@ -1,0 +1,12 @@
+
+.icon-cog:before { content: '\e800'; } /* '' */
+.icon-chart-pie:before { content: '\e801'; } /* '' */
+.icon-cog-1:before { content: '\e802'; } /* '' */
+.icon-desktop:before { content: '\e803'; } /* '' */
+.icon-desktop-1:before { content: '\e804'; } /* '' */
+.icon-monitor:before { content: '\e805'; } /* '' */
+.icon-arrows-ccw:before { content: '\e806'; } /* '' */
+.icon-users-outline:before { content: '\e807'; } /* '' */
+.icon-arrows-cw:before { content: '\e808'; } /* '' */
+.icon-arrows-cw-outline:before { content: '\e809'; } /* '' */
+.icon-sliders:before { content: '\f1de'; } /* '' */
